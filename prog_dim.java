@@ -1,8 +1,8 @@
 public class prog_dim{
   public static void main(String [] args){
     int a = 10;
-    int resultado = fib[a];
-    System.out.println("Fibonacci de: "+n+" es: "+resultado);
+    int resultado = fib(a);
+    System.out.println("Fibonacci de: "+a+" es: "+resultado);
   }
 
   public static int fib(int n){
