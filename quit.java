@@ -1,5 +1,3 @@
-package Clase2;
-
 public class Quickshort {
 	public static void main(String [] args) {
 		
